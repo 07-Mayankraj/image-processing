@@ -46,7 +46,9 @@ Create a `.env` file and add the following:
 PORT=8080
 DATABASE_URL=<your_postgres_connection_url>
 ```
-```env testing porpose
+- testing porpose
+  
+```env 
 DATABASE_URL = postgresql://expensetracker_o6lh_user:5J1JfPkVLOF2GilQCmZvMHKVwkm7uTZE@dpg-cv0ck9l2ng1s73el50rg-a.oregon-postgres.render.com/expensetracker_o6lh
 PORT = 8080
 ```
